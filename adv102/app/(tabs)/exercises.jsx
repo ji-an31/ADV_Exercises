@@ -9,6 +9,7 @@ export default function Exercises() {
         { title: 'Exercise 4', description: 'Desc', href: '/' },
         { title: 'Exercise 5', description: 'Desc', href: '/' },
         { title: 'Exercise 6', description: 'Desc', href: '/' },
+        
     ]
 
     return (

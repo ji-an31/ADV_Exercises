@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { StyleSheet, TextInput, Button, View, Platform, Text } from 'react-native';
-import { useNavigation } from '@react-navigation/native';  // Import the useNavigation hook
+import { useNavigation } from '@react-navigation/native';  
 import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
 import Login from '@/adv102/app/login';
